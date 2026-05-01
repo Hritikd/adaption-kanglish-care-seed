@@ -85,7 +85,7 @@ What it is: an existence proof. One person, one evening, one underserved languag
 
 ## About
 
-I'm Hritik Datta, based in Bengaluru. I lead product at [Pre6.ai](https://pre6.ai), where we build application-layer AI software for manufacturers (backed by Peak XV and General Catalyst). I'm embedded in the Bengaluru AI builder ecosystem and active in the local research community, including through Lossfunk.
+I'm Hritik Datta, based in Bengaluru. I lead product at [Pre6.ai](https://pre6.ai), where we build application-layer AI software for manufacturers (backed by Peak XV and General Catalyst). 
 
 This work was started as part of an application to the Adaption Ambassadors program and will continue regardless of the outcome — the gap it addresses is real either way.
 
