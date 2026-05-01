@@ -3,10 +3,10 @@
 > A small, deliberate seed dataset for code-mixed Kannada–English customer support, built to test what happens when you take a known long-tail data gap and feed it through Adaptive Data.
 
 **Status:** seed published. Expansion run pending — to be added as `expanded.jsonl` and `RESULTS.md` once complete.
-**Built by:** Hritik Datta, from Bengaluru.
-**Built with:** [Adaption](https://www.adaptionlabs.ai/) — Adaptive Data (early access).
+**Built by:** Hritik 
+**Built with:** [Adaption](https://www.adaptionlabs.ai/) — Adaptive Data (early access)
 
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Why this exists
 
@@ -87,7 +87,7 @@ What it is: an existence proof. One person, one evening, one underserved languag
 
 I'm Hritik Datta, based in Bengaluru. I lead product at [Pre6.ai](https://pre6.ai), where we build application-layer AI software for manufacturers (backed by Peak XV and General Catalyst). 
 
-This work was started as part of an application to the Adaption Ambassadors program and will continue regardless of the outcome — the gap it addresses is real either way.
+This work was started as part of an application to the Adaption Ambassadors program.
 
 If you want to use this seed, extend it to a language or vertical it doesn't yet cover, or talk about code-mixed Indic data work generally: open an issue, or reach me on LinkedIn.
 
