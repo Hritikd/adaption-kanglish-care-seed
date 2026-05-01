@@ -58,7 +58,7 @@ All names, phone numbers, order IDs, and addresses in the seed are synthetic. No
 ## Reproducing the expansion
 
 ```bash
-git clone https://github.com/<your-user>/adaption-kanglish-care-seed.git
+git clone https://github.com/Hritikd/adaption-kanglish-care-seed.git
 cd adaption-kanglish-care-seed
 pip install -r requirements.txt
 
