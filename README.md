@@ -2,7 +2,7 @@
 
 > A small, deliberate seed dataset for code-mixed Kannada–English customer support, built to test what happens when you take a known long-tail data gap and feed it through Adaptive Data.
 
-**Status:** seed published. Expansion run pending — to be added as `expanded.jsonl` and `RESULTS.md` once complete.
+**Status:** Seed published. Expansion run completed (139 rows). See `expanded.jsonl` and `RESULTS.md`.
 **Built by:** Hritik 
 **Built with:** [Adaption](https://www.adaptionlabs.ai/) — Adaptive Data (early access)
 
@@ -75,7 +75,7 @@ The script wraps the documented Adaptive Data lifecycle: `upload_file → run (e
 
 ## Results
 
-Will be filled in as `RESULTS.md` after the first expansion run completes. The quality axes the evaluation tracks (code-mix preservation, intent fidelity, register match, factual safety) are described in [`docs/methodology.md`](docs/methodology.md).
+Expansion run completed. 57 seed rows expanded to 139 rows. Adaption's internal evaluator scored the result as a 31.7% relative quality improvement (C → B grade). See `RESULTS.md` for findings, including how Blueprint held Kanglish preservation and how localization mode produced cross-lingual training pairs.
 
 ## What this is not
 
